@@ -21,7 +21,7 @@ db_params = {
     "host": "localhost",
     "database": "sensor_values",
     "user": "postgres",
-    "password": "preetham28",
+    "password": "",
     "port": "5433"
 }
 
